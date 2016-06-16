@@ -9,7 +9,7 @@ public class Ordenacao2 {
         cria(N, vet, 0);
         
         System.out.println("Alteração realizada");
-        System.out.println("Nova alteração Alteração");
+        
         
         
         int vet1[] = vet.clone();
